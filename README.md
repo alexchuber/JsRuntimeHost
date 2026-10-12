@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Base new changes on the [`prod`](https://github.com/alexchuber/JsRuntimeHost/tree/prod) branch for the latest upstream changes.
+> The `prod` branch is automatically synced with upstream every hour.
+
 [![Build Status](https://dev.azure.com/babylonjs/ContinousIntegration/_apis/build/status/JsRuntimeHost%20CI?branchName=main)](https://dev.azure.com/babylonjs/ContinousIntegration/_build/latest?definitionId=22&branchName=main)
 
 # JavaScript Runtime Host
